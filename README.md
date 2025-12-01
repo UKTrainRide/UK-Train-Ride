@@ -161,7 +161,7 @@ A **comprehensive Power BI dashboard** providing actionable insights into UK tra
 
 ## **Instructor**
 
-[Instructor Name]
+[Kareem Bakli]
 
 ---
 
