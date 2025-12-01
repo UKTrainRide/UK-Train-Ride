@@ -19,7 +19,6 @@
 * [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 * [Technology Stack](#technology-stack)
 * [Database Design](#database-design)
-* [Dashboard Screenshots](#dashboard-screenshots)
 * [Expected Deliverables](#expected-deliverables)
 * [Final Outcome](#final-outcome)
 * [Project Team](#project-team)
@@ -129,18 +128,6 @@ This project analyzes historical UK train ride data to uncover ridership pattern
 * Dim_Revenue_Category — Revenue breakdown
 
 **Schema:** Star schema linking Fact_Ridership to all dimension tables.
-
----
-
-## **Dashboard Screenshots**
-
-*Add images of your Power BI dashboards here:*
-
-![Dashboard 1](screenshots/dashboard1.png)
-![Dashboard 2](screenshots/dashboard2.png)
-![Forecast Visualization](screenshots/forecast.png)
-
-> Tip: Store screenshots in a `screenshots/` folder in your repo and link them like above.
 
 ---
 
