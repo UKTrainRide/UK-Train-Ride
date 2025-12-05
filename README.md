@@ -71,7 +71,7 @@ This project analyzes historical UK train ride data to uncover ridership pattern
 | ---------------------------------- | ----------------------------------------------- | ---------------------------- | ---------------------------------- |
 | Data Engineering / Preparation     | Clean data, build pipelines, structure datasets | SQL, Python, Excel           | Mohamed Amin, Mohamed Gado         |
 | Data Analysis                      | Explore data, identify KPIs, detect trends      | Python, SQL, Excel, Power BI | Zainab Hedaya, Shimaa Mohamed      |
-| Data Visualization / BI            | Build dashboards, visual storytelling           | Power BI                     | Kariem Elghandor, Reham Elsaid     |
+| Data Visualization / BI            | Build dashboards, visual storytelling           | Power BI                     | Shaimaa Mohamed Wafaey     |
 | Documentation / Project Management | Track deliverables, prepare reports             | —                            | Mohamed Amin (Lead), Zainab Hedaya |
 
 ---
