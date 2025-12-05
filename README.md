@@ -154,8 +154,8 @@ A **comprehensive Power BI dashboard** providing actionable insights into UK tra
 | Mohamed Gado     | Data Engineering                |
 | Zainab Hedaya    | Data Analysis                   |
 | Shimaa Mohamed   | Data Analysis                   |
-| Kariem Elghandor | Visualization / BI              |
-| Reham Elsaid     | Visualization / BI              |
+| Zainab Hedaya | Visualization / BI              |
+| Shimaa Mohamed     | Visualization / BI              |
 
 ---
 
